@@ -6,4 +6,4 @@ Contributing guidelines:
 
 (placeholder)
 
-Please follow this link to the wiki: https://github.com/TGAC/knowledge_base/wiki
+Please follow this link to the wiki: https://github.com/EarlhamInst/knowledge_base/wiki
